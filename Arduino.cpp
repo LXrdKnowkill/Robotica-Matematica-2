@@ -3,6 +3,7 @@
 
 
 //meus caros amigos lindos do coração, o codigo é para um coiso com pedestre nao lembro o nome agora
+//vou te explicar como voce vai fazer refazer esse commit as 23:31 vamos la vc vai começar assim segue o link a seguir -> https://cdn.discordapp.com/attachments/506461972217462788/1093362452059660328/image.png
 
 // quem tiver escrevendo esse codigo na disgraç do mblock fica atento que dependendo eu nao uso init,
 // ou até posso usar para colocar a variavel define, mas sei la, descubra com o tempo.
